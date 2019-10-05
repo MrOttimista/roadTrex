@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/roadtrex/static/css/main.584f321a.chunk.css",
-    "main.js": "/roadtrex/static/js/main.a4e3b3c8.chunk.js",
-    "main.js.map": "/roadtrex/static/js/main.a4e3b3c8.chunk.js.map",
-    "runtime~main.js": "/roadtrex/static/js/runtime~main.af74900d.js",
-    "runtime~main.js.map": "/roadtrex/static/js/runtime~main.af74900d.js.map",
-    "static/js/2.b41502e9.chunk.js": "/roadtrex/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/roadtrex/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/roadtrex/index.html",
-    "precache-manifest.255ec25e5fb1216b03ca4c4a6197cfba.js": "/roadtrex/precache-manifest.255ec25e5fb1216b03ca4c4a6197cfba.js",
-    "service-worker.js": "/roadtrex/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/roadtrex/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/roadtrex/static/media/logo.5d5d9eef.svg"
+    "main.css": "/coligo/static/css/main.74e9026a.chunk.css",
+    "main.js": "/coligo/static/js/main.017124a5.chunk.js",
+    "main.js.map": "/coligo/static/js/main.017124a5.chunk.js.map",
+    "runtime~main.js": "/coligo/static/js/runtime~main.5ffaf806.js",
+    "runtime~main.js.map": "/coligo/static/js/runtime~main.5ffaf806.js.map",
+    "static/css/2.653462cc.chunk.css": "/coligo/static/css/2.653462cc.chunk.css",
+    "static/js/2.feda2a7a.chunk.js": "/coligo/static/js/2.feda2a7a.chunk.js",
+    "static/js/2.feda2a7a.chunk.js.map": "/coligo/static/js/2.feda2a7a.chunk.js.map",
+    "index.html": "/coligo/index.html",
+    "precache-manifest.68301d284d9ebf1cb315922e9c3a3f9a.js": "/coligo/precache-manifest.68301d284d9ebf1cb315922e9c3a3f9a.js",
+    "service-worker.js": "/coligo/service-worker.js",
+    "static/css/2.653462cc.chunk.css.map": "/coligo/static/css/2.653462cc.chunk.css.map",
+    "static/css/main.74e9026a.chunk.css.map": "/coligo/static/css/main.74e9026a.chunk.css.map",
+    "static/media/desk.svg": "/coligo/static/media/desk.cf1b3e8a.svg"
   }
 }
